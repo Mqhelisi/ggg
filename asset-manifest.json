@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2729c50.css",
+    "main.js": "/static/js/main.c5a5e9b5.js",
+    "static/js/787.3114ca74.chunk.js": "/static/js/787.3114ca74.chunk.js",
+    "static/media/ggg-logo.png": "/static/media/ggg-logo.6347265276f14e980b6c.png",
+    "index.html": "/index.html",
+    "main.d2729c50.css.map": "/static/css/main.d2729c50.css.map",
+    "main.c5a5e9b5.js.map": "/static/js/main.c5a5e9b5.js.map",
+    "787.3114ca74.chunk.js.map": "/static/js/787.3114ca74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2729c50.css",
+    "static/js/main.c5a5e9b5.js"
+  ]
+}
